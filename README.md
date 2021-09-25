@@ -61,6 +61,8 @@ npm install -g {npmName}
 # 访问 http://localhost:{port} 查看文档
 ```
 
-## 赞助我们
+## 公众号
 
-![](http://data.apachecn.org/img/about/donate.jpg)
+请关注我们的公众号，回复“教程/路线/比赛/报告/技术书/轻小说/漫画/新知”来获取更多资源：
+
+![](asset/gzh_qr.jpg)
