@@ -1,5 +1,16 @@
 # 轻小说 2021 CDNDrive 备份 RC1
 
+## 下载方式
+
+```
+pip install CDNDrive
+# 或
+# pip install git+https://github.com/apachecn/CDNDrive
+cdrive download <link>
+```
+
+## 链接
+
 <!--bdex-->
 
 | 文件 | 链接 |
