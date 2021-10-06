@@ -10,8 +10,8 @@
 ### Docker
 
 ```
-docker pull wizardforcel/acgn-archive
-docker run -tid -p <port>:80 wizardforcel/acgn-archive
+docker pull apachecn0/acgn-archive
+docker run -tid -p <port>:80 apachecn0/acgn-archive
 # 访问 http://localhost:{port} 查看文档
 ```
 
