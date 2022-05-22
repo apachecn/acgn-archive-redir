@@ -14,6 +14,7 @@
 	+   [轻小说归档 2020 CDNDrive 备份](docs/lightnovel/lightnovel-2020-cdndrive.md)
 	+   [轻小说汇总 2020](docs/lightnovel/lightnovel-2020.md)
 	+   [轻小说汇总 2021 CDNDrive 备份 RC1](docs/lightnovel/lightnovel-2021-cdndrive-rc1.md)
+	+   [轻小说汇总 2022 CDNDrive 备份 RC1](docs/lightnovel/lightnovel-2022-cdndrive-rc1.md)
 +   日漫
 	+   [动漫之家 CDNDrive 备份（1）](docs/riman/dmzj1-cdndrive.md)
 	+   [动漫之家网盘备份（1）](docs/riman/dmzj1.md)
